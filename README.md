@@ -4,7 +4,7 @@
 I am learning new technologies, currently working on my college projects. Soon I will be working with experienced developers..
 
 Skills:
-![HTML](https://cdn-icons-png.flaticon.com/512/1051/1051277.png)
+![HTML](<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="200" height="100">)
 
 
 
