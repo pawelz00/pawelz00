@@ -3,9 +3,9 @@
 
 I am learning new technologies, currently working on my college projects. Soon I will be working with experienced developers..
 
-Skills:
--HTML [<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/html5.svg" style="padding-right:10px;" />]
-
+### Skills:
+[<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/html5.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/css3.svg" style="padding-right:10px;" />]
 
 
 
