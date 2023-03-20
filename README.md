@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is Paweł
-### I am a 2nd year student in Krakow.
+### I am a 3rd year student in Krakow.
 
 I am learning new technologies, currently working on my college projects. Soon I will be working with experienced developers..
 
