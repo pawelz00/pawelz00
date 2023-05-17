@@ -1,9 +1,8 @@
 ## Hi there 👋, my name is Paweł
 ### I am a 3rd year student in Krakow.
 
-I am learning new technologies, currently working on my college projects. Soon I will be working with experienced developers..
+Continuous learner, actively seeking exciting job opportunities to apply my skills and contribute to innovative projects.
 
-### Skills:
 <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:15px;" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:15px;" />
 <img align="left" alt="JS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
