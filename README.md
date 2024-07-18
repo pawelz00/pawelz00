@@ -1,20 +1,19 @@
-# pawelz00 - next.js developer
+# pawelz00 - fullstack typescript developer
 
-some of my toolkit includes:
+#### some of my toolkit includes:
   
-| next.js | vercel | react | typescript | prisma | planetscale | tailwind | rest apis | cube.js |
-|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+| typescript | javascript | react | tailwind | next.js | css | html | rest apis | cube.js | mysql | postgres | mongodb
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 
----
+----
+#### currently working on: 
+- ###### guitar practice application 
+- ###### marketplace application
 
-> #### everyday i try to learn something new, i am thrilled to work with experience developers and learn from them and give back 
+#### currently learning:
+- ###### python
 
----
-
-> #### i try my best to deliver useful features and smooth designes
-
----
-
-> #### work isn't exclusively a rapid experience, it should progress with a sense of ease
-
----
+----
+> ###### everyday i try to learn something new, i am thrilled to work with experience developers and learn from them and give back 
+> ###### i try my best to deliver useful features and smooth designes
+> ###### work isn't exclusively a rapid experience, it should progress with a sense of ease
