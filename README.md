@@ -12,6 +12,7 @@
 
 #### currently learning:
 - ###### python
+- ###### react native
 
 ----
 > ###### everyday i try to learn something new, i am thrilled to work with experience developers and learn from them and give back 
